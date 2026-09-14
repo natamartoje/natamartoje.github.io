@@ -1,6 +1,6 @@
 # Natalia Martinez
 
-### Operations Research Analyst (Data Science)
+### Operations Research Scientist
 
 **Interested In:** Data Analysis, AI/ML, Data Visualization, Decision Support Tools
 
