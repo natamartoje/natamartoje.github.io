@@ -20,12 +20,17 @@ Operations Research Analyst (Data Science)
 
 (July 2024 - present)
 
-  * Journey Level Development Program Participant, 2025 Cohort.
-  * In the Cyberspace Workforce work role of Software Developer, Operations Research Analyst.
-  * Design and maintain robust pipeline for FRC Infrastructure Optimization  Program (FIOP) Data ETL from Microsoft Project Online, Databricks, and flat files. Automated existing FIOP products and accelerated metrics development for high level COMFRC efforts. Work with FIOP to identify new data stream requirements to support Equipment and Facility analysis and decision-making by building analytical tools. Automated data pipelines reduced data gaps and labor expenditure.
-  * Provided Continuity of Operations during the 2025 Government Shutdown. Build the Corporate Metrics Dashboard during high stress time with independent decision making and interpersonal skills. The teamwork, honesty, and self-management enabled excellent customer service to COMFRC leadership during a product status request. Developed COMFRC Medical Surveillance Dashboard.
-  * Troubleshoot dashboard issues to streamline leadership Monthly Business Reviews. 
+* Journey Level Development Program Participant, 2025 Cohort.
+* In the Cyberspace Workforce work role of Software Developer, Operations Research Analyst.
+* Design and maintain robust pipeline for FRC Infrastructure Optimization  Program (FIOP) Data ETL from Microsoft Project Online, Databricks, and flat files. Automated existing FIOP products and accelerated metrics development for high level COMFRC efforts. Work with FIOP to identify new data stream requirements to support Equipment and Facility analysis and decision-making by building analytical tools. Automated data pipelines reduced data gaps and labor expenditure.
+* Provided Continuity of Operations during the 2025 Government Shutdown. Build the Corporate Metrics Dashboard during high stress time with independent decision making and interpersonal skills. The teamwork, honesty, and self-management enabled excellent customer service to COMFRC leadership during a product status request. Developed COMFRC Medical Surveillance Dashboard.
+* Troubleshoot dashboard issues to streamline leadership Monthly Business Reviews. 
 
 ## Project
 
-   https://pyqrcodegen-rpbyt9ephtp2rliqtgj2ce.streamlit.app/
+### Streamlit App for Generating QR Codes
+[Git Repo]([https://pyqrcodegen-rpbyt9ephtp2rliqtgj2ce.streamlit.app)
+
+Designed and developed a dynamic streamlit dashboard to enable NPS community to build custom QR Codes.
+
+<img src='images/Screenshot app.png' alt='dashboard' height=200/>
