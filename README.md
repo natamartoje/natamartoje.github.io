@@ -8,9 +8,9 @@
 
 ## Contact Me
 
-  * **Email:** natalia.martinez90@outlook.com<br>
-  * **Phone:** 787-644-3188<br>
-  * **LinkedIn:** https://www.linkedin.com/in/natalia-sary-martinez-ojeda-013039ba/<br>
+- **Email:** natalia.martinez90@outlook.com<br>
+- **Phone:** 787-644-3188<br>
+- **LinkedIn:** https://www.linkedin.com/in/natalia-sary-martinez-ojeda-013039ba/<br>
 
 ## Current Job
 
